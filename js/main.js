@@ -1,1 +1,2 @@
+alert("Funciona el script");
 
